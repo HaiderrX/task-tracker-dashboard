@@ -31,16 +31,6 @@ This is a simple, beginner-friendly Excel-based task tracker that helps manage y
 
 ---
 
-## 📷 Screenshots
-
-| Task Log Example | Dashboard Summary |
-|------------------|-------------------|
-| ![Task Log](screenshots/task-log.png) | ![Dashboard](screenshots/dashboard.png) |
-
-*(Optional: Upload screenshots into a `screenshots/` folder and update the links above.)*
-
----
-
 ## 🔧 How to Use
 
 1. Download the `.xlsx` file from this repo
@@ -52,11 +42,8 @@ This is a simple, beginner-friendly Excel-based task tracker that helps manage y
 
 ## ✍️ Author
 
-**Your Name**  
+**Muhammad Haider Ali**  
 Built as a personal project to demonstrate practical Excel skills.  
-🔗 [LinkedIn](https://linkedin.com/in/yourname)  
-🔗 [Portfolio](https://yourportfolio.com)
-
 ---
 
 ## 📄 License
